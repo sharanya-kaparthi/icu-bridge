@@ -1,0 +1,1 @@
+{ "name": "icu-bridge", "version": "1.0.0", "dependencies": { "mqtt": "^5.0.0" }, "scripts": { "start": "node hivemq-bridge.js" } }
